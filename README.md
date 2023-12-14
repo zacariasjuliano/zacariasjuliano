@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>        
-        - 🌱 I’m currently learning news things such as Ruby and RubyOnRails...<br>
+        - 🌱 I’m currently learning news things...<br>
         - 💞️ I’m interesting to collaborate on software developmenet...<br>
         - 📫 You can reach me E-mail to zacariasjuliano@gmail.com...<br>
     </i>
@@ -30,10 +30,12 @@
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap)](https://github.com/zacariasjuliano)
 [![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3)](https://github.com/zacariasjuliano)
-[![Embarcadero RAD Studio](https://img.shields.io/badge/embarcadero_radstudio-white?style=for-the-badge&logo=embarcadero-radstudio)](https://github.com/zacariasjuliano)
 [![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)](https://github.com/zacariasjuliano)
+[![Embarcadero RAD Studio](https://img.shields.io/badge/embarcadero_radstudio-red?style=for-the-badge&logo=embarcadero-radstudio)](https://github.com/zacariasjuliano)
 [![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel)](https://github.com/zacariasjuliano)
-[![Tryton](https://img.shields.io/badge/tryton-white?style=for-the-badge&logo=tryton-erp)](https://github.com/zacariasjuliano)
+[![Tryton](https://img.shields.io/badge/tryton-blue?style=for-the-badge&logo=tryton-erp)](https://github.com/zacariasjuliano)
+[![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby)](https://github.com/zacariasjuliano)
+
 
 ### OS
 <hr>
