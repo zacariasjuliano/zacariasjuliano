@@ -12,12 +12,14 @@
 ### Languages
 <hr>
 
-[![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus)](https://github.com/zacariasjuliano)
-[![C](https://img.shields.io/badge/c-white?style=for-the-badge&logo=c)](https://github.com/zacariasjuliano)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/zacariasjuliano)
+[![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby)](https://github.com/zacariasjuliano)
+[![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php)](https://github.com/zacariasjuliano)
+[![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)](https://github.com/zacariasjuliano)
+[![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)](https://github.com/zacariasjuliano)
 [![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)](https://github.com/zacariasjuliano)
 [![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=sql)](https://github.com/zacariasjuliano)
-[![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php)](https://github.com/zacariasjuliano)
-[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/zacariasjuliano)
+
 
 ### DATABASE
 <hr>
@@ -28,13 +30,13 @@
 ### Technologies & Frameworks
 <hr>
 
+<!--
 [![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap)](https://github.com/zacariasjuliano)
-[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3)](https://github.com/zacariasjuliano)
-[![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5)](https://github.com/zacariasjuliano)
-[![Embarcadero RAD Studio](https://img.shields.io/badge/embarcadero_radstudio-red?style=for-the-badge&logo=embarcadero-radstudio)](https://github.com/zacariasjuliano)
+--->
 [![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel)](https://github.com/zacariasjuliano)
 [![Tryton](https://img.shields.io/badge/tryton-blue?style=for-the-badge&logo=tryton-erp)](https://github.com/zacariasjuliano)
-[![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby)](https://github.com/zacariasjuliano)
+[![RubyOnRails](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby-on-rails)](https://github.com/zacariasjuliano)
+
 
 
 ### OS
