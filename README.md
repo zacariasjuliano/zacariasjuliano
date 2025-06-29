@@ -36,6 +36,7 @@
 [![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel)](https://github.com/zacariasjuliano)
 [![Tryton](https://img.shields.io/badge/tryton-blue?style=for-the-badge&logo=tryton-erp)](https://github.com/zacariasjuliano)
 [![RubyOnRails](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby-on-rails)](https://github.com/zacariasjuliano)
+[![Tryton](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/zacariasjuliano)
 
 
 
